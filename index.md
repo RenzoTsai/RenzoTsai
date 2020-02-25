@@ -11,3 +11,11 @@ Click the link below to find my online CV 🚀
 [Online CV](https://runze.xyz/online-cv/)
 
 ![CV Thumbnail](/image/cv.jpg)
+
+## GO TO MY INSTAGRAM PAGE
+
+Click the link below to see my Instagram 📷
+
+[Online CV](https://www.instagram.com/ivincentcai/)
+
+![Instagram Thumbnail](/image/instagram.jpg)
