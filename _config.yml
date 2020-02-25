@@ -1,4 +1,6 @@
+title: RenZone
+logo: 
+description: This is Cai Runze's personal website.
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
-name: Cai Runze
-email: cairunze17@mails.ucas.ac.cn
-github: RenzoTsai
