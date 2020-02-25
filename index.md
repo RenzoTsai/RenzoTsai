@@ -16,6 +16,6 @@ Click the link below to find my online CV 🚀
 
 Click the link below to see my Instagram 📷
 
-[Online CV](https://www.instagram.com/ivincentcai/)
+[Instagram](https://www.instagram.com/ivincentcai/)
 
 ![Instagram Thumbnail](/image/instagram.jpg)
