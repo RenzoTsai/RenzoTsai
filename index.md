@@ -6,4 +6,4 @@ Welcome to RenZone! RenZone is my personal website and I record some important i
 
 Click the link below to find my online CV.
 
-[Online CV](runze.xyz/online-cv)
+[Online CV](https://runze.xyz/online-cv/)
