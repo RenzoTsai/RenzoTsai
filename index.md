@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to RenZone! 
+Welcome to RenZone!
 
 This is my personal website and I post some important information for me here ✨
 
@@ -16,6 +16,6 @@ Click the link below to find my online CV 🚀
 
 Click the link below to see my Instagram 📷
 
-[Instagram](https://www.instagram.com/ivincentcai/)
+[Instagram Page](https://www.instagram.com/ivincentcai/)
 
 ![Instagram Thumbnail](/image/instagram.jpg)
